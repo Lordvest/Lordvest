@@ -1,4 +1,4 @@
-### Hi there 👋
+### - 🌱 I’m currently learning Frontend WebDevelopment and open to intern roles remotely
 
 <!--
 **Lordvest/Lordvest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
